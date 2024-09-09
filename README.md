@@ -69,6 +69,7 @@ The app uses three thresholds to determine the noise level:
 ## Credits
 
 Developed using JavaScript, TensorFlow.js, and the Web Audio API for real-time audio analysis and visualization.
+Developed by: Mohammed Sadiq Ali
+Link: https://github.com/4TechSadiq/
 
 ---
-Feel free to modify and expand upon this base functionality to add speech recognition or other audio processing features.
